@@ -12,6 +12,7 @@ body {
   overflow-x: hidden;
   padding: 0;
   width: 100%;
+  color: black;
 }
 
 div#main {
@@ -58,6 +59,7 @@ h2 {
   font-weight: 400;
   margin: 0;
   padding-top: 1rem;
+  color: white;
 }
 
 h3 {

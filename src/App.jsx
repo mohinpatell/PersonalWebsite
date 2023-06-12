@@ -28,8 +28,8 @@ const siteProps = {
   title: "Full Stack Developer",
   email: "mohinpatel1728@gmail.com",
   gitHub: "mohinpatell",
-  instagram: "_mohin_patel_/",
-  linkedIn: "mohin-patel/",
+  instagram: "_mohin_patel_",
+  linkedIn: "mohin-patel",
   medium: "",
   twitter: "the_mohin_patel",
 };

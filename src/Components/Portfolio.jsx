@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/winners.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Picture of a screen with unintelligible code on it.";
 
 /**
  * Project list
@@ -37,23 +37,18 @@ const projectList = [
     url: "https://devpost.com/software/capitolonebankazure",
   },
   {
-    title: "Web Development for Beginners",
+    title: "freeCodeCamp Profile/Certifications",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "I have completed 600+ hours of freeCodeCamp's curriculum and earned 2 certifications.",
+    url: "https://www.freecodecamp.org/Mohin_Patel",
   },
   {
-    title: "My Resume Site",
+    title: "Bloomberg Certification",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I have completed Bloomberg's Market Concepts Certification, signifying proficient knowledge for the Bloomberg Terminal and financial markets.",
+    url: "https://portal.bloombergforeducation.com/certificates/kok6mr6172n7brc6LjSpcAqD",
   },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
-  },
+
 ];
 
 const Portfolio = () => {

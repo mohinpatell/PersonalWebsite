@@ -27,11 +27,11 @@ const siteProps = {
   name: "Mohin Patel",
   title: "Full Stack Developer",
   email: "mohinpatel1728@gmail.com",
-  gitHub: "https://github.com/mohinpatell",
-  instagram: "https://www.instagram.com/_mohin_patel_/",
-  linkedIn: "https://www.linkedin.com/in/mohin-patel/",
+  gitHub: "github.com/mohinpatell",
+  instagram: "www.instagram.com/_mohin_patel_/",
+  linkedIn: "www.linkedin.com/in/mohin-patel/",
   medium: "",
-  twitter: "https://twitter.com/the_mohin_patel",
+  twitter: "twitter.com/the_mohin_patel",
 };
 
 const primaryColor = "#4E567E";

@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Mohin Patel",
-  title: "CS & Quantitative Finance Student",
+  title: "Full Stack Developer",
   email: "mohinpatel1728@gmail.com",
   gitHub: "https://github.com/mohinpatell",
   instagram: "https://www.instagram.com/_mohin_patel_/",

@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a Computer Science and Quantitative Finance student at Stevens Institute of Technology. I am passionate about solving problems in new creative ways to drive innovation. By leveraging my OpenAI experience I continually look to make AI accessible in new ways.";
+  "I am a sophomore Computer Science and Quantitative Finance student at Stevens Institute of Technology. I am passionate about solving problems in new creative ways to drive innovation. By leveraging my OpenAI experience I continually look to make AI accessible in new ways.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -35,7 +35,7 @@ const skillsList = [
   "Azure cloud services",
   "AWS cloud services",
   "Bloomberg Terminal",
-  "OpenAI API",
+  "AI Model Fine Tuning",
   "Responsive Web Design",
   "Algorithms and Data Structures",
 ];

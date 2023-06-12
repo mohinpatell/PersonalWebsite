@@ -31,10 +31,10 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Best Financial Hack Winner",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Won against 85+ teams in the 2023 MLH Hackathon sponsored by Microsoft and Capital One for my project, ''Finance for Dummies.''",
+    url: "https://devpost.com/software/capitolonebankazure",
   },
   {
     title: "Web Development for Beginners",

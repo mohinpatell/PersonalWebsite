@@ -125,8 +125,8 @@ Go to the following below components to update the `import image...` line to ref
 
 * `/src/Components/Home.jsx` - section at top of the page, main image you will see when site loads (woman standing by server wall in sample)
    ```javascript
-      import image from "../images/server-wall.jpg";
-      const imageAltText = "woman holding laptop standing by server room with glass wall";
+      import image from "../images/backgroundpicture.jpg";
+      const imageAltText = "My team and I at the 2023 MLH Hackathon at St. John's University in Queens. I am the one furthest to the right.";
    ```
 * `/src/Components/About.jsx` - background behind the detailed "About me" section (abstract mosaic in sample)
    ```javascript
@@ -155,7 +155,7 @@ The sample design has 4, but the number you include is up to you.
 ```javascript
 const projectList = [
   {
-    title: "10 Things to know about Azure Static Web Apps 🎉",
+    title: "Best Financial Hack Winner",
     description: "Collaboration to create a beginner friendly....",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },

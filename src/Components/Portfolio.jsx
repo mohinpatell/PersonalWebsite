@@ -43,7 +43,7 @@ const projectList = [
     url: "https://www.freecodecamp.org/Mohin_Patel",
   },
   {
-    title: "Bloomberg Certification",
+    title: "Blomberg Certification",
     description:
       "I have completed Bloomberg's Market Concepts Certification, signifying proficient knowledge for the Bloomberg Terminal and financial markets.",
     url: "https://portal.bloombergforeducation.com/certificates/kok6mr6172n7brc6LjSpcAqD",

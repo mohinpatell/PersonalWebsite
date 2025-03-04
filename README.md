@@ -2,7 +2,7 @@
 
 # Mohin Patel's Personal Website
 
-This is a personal website for Mohin Patel, a sophomore computer science and quantitative finance major at Stevens Institute of Technology in Hoboken. The website is built using React.js, which combines JavaScript, HTML, and CSS to create interactive and dynamic web pages.
+This is a personal website for Mohin Patel, a Junior Computer Science and Mathematics major at University of Washington in Seattle. The website is built using React.js, which combines JavaScript, HTML, and CSS to create interactive and dynamic web pages.
 
 ## Features
 

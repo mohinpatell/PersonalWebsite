@@ -24,7 +24,7 @@ const imageAltText = "Cool coding background.";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a sophomore Computer Science and Quantitative Finance student at Stevens Institute of Technology. I am passionate about solving problems in new creative ways to drive innovation. By leveraging my OpenAI experience I continually look to make AI accessible in new ways.";
+  "I am a Junior Computer Science and Mathematics student at the University of Washington in Seattle. I am always learning and love to solve complex problems.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -34,8 +34,7 @@ const skillsList = [
   "Fullstack development",
   "Azure cloud services",
   "AWS cloud services",
-  "Bloomberg Terminal",
-  "AI Model Fine Tuning",
+  "Machine Learning solutions",
   "Responsive Web Design",
   "Algorithms and Data Structures",
 ];
